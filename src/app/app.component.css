@@ -1,0 +1,29 @@
+.timer-container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .time-display {
+    font-size: 2em;
+    margin: 20px 0;
+  }
+  
+  .timer-buttons button,
+  .task-log button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 1em;
+  }
+  
+  .task-log input {
+    padding: 10px;
+    font-size: 1em;
+  }
+  
+  .logs {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
